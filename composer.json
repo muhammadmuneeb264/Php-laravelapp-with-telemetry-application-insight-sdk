@@ -1,0 +1,5 @@
+{
+    "require": {
+        "microsoft/application-insights": "^0.4.5"
+    }
+}
